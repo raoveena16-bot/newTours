@@ -108,11 +108,7 @@
 
    
 </dependency>
-  	<dependency>
-  		<groupId>org.SwagLabs</groupId>
-  		<artifactId>SwagLabs</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  
   </dependencies>
   
   
